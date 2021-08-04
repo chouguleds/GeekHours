@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"url",
+				"urlencodedParser"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"path",
+				"pathName"
+			],
+			[
+				"read",
+				"readStream"
+			],
+			[
+				"write",
+				"writeStream"
+			],
+			[
+				"list",
+				"listner1"
+			],
+			[
+				"eve",
+				"eventEmitter"
+			],
+			[
+				"Event",
+				"EventEmitter"
+			],
+			[
+				"lis",
+				"listner2"
+			],
+			[
+				"listner",
+				"listner1"
+			],
+			[
+				"even",
+				"events"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"connectio",
+				"connectionHandler"
+			],
+			[
+				"event",
+				"eventEmitter"
+			],
+			[
+				"g",
+				"getCapType"
+			],
+			[
+				"p",
+				"Pen"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cat",
+				"cat3"
+			],
+			[
+				"t",
+				"talk"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"prpo",
+				"prop2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: if"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"node-debug ReadStream.js",
+			"stop",
+			"fun();",
+			"fu();",
+			"fun();",
+			"fun()",
+			"fun();",
+			"fun()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/EventManager/EventManager/app.js",
+		"/D/EventManager/EventManager/AccountServices/RegisterService.js",
+		"/D/EventManager/EventManager/config.js",
+		"/D/EventManager/EventManager/AccountServices/Authenticate.js",
+		"/C/Users/dchoughule/Desktop/Program.java",
+		"/C/Users/dchoughule/Desktop/Node.js/rest next fn/app.js",
+		"/C/Users/dchoughule/Desktop/Node.js/Load js/routes/list.js",
+		"/C/Users/dchoughule/Desktop/Node.js/Load js/routes/index.js",
+		"/C/Users/dchoughule/Desktop/Node.js/Load js/app.js",
+		"/C/Users/dchoughule/Desktop/Node.js/Load js/a.ja",
+		"/C/Users/dchoughule/Desktop/Node.js/Node Sample Codes/NodeMVA/05_HelloWorldTCP/client.js",
+		"/C/Users/dchoughule/Desktop/Node.js/Node Sample Codes/NodeMVA/05_HelloWorldTCP/server.js",
+		"/C/Users/dchoughule/Desktop/Node.js/SetInterval.js",
+		"/C/Users/dchoughule/Desktop/Node.js/SetTimeout.js",
+		"/C/Users/dchoughule/Desktop/Node.js/ChainStream2Decompress.js",
+		"/C/Users/dchoughule/Desktop/Node.js/ChainStream.js",
+		"/C/Users/dchoughule/Desktop/Node.js/PipeStream.js",
+		"/C/Users/dchoughule/Desktop/Node.js/WriteStream.js",
+		"/C/Users/dchoughule/Desktop/Node.js/ReadStream.js",
+		"/C/Users/dchoughule/Desktop/Node.js/EventHandling1.js",
+		"/C/Users/dchoughule/Desktop/Node.js/EventHandling.js",
+		"/C/Users/dchoughule/Desktop/Node.js/ASyncFileRead.js",
+		"/C/Users/dchoughule/Desktop/Node.js/SyncFileRead.js",
+		"/C/Users/dchoughule/Desktop/Node.js/FileUploadServer.js",
+		"/C/Users/dchoughule/Desktop/Node.js/PostServer.js",
+		"/C/Users/dchoughule/Desktop/Node.js/GetServer.js",
+		"/C/Users/dchoughule/Desktop/Node.js/ExpressServer.js",
+		"/C/Users/dchoughule/Desktop/Node.js/WebClient.js",
+		"/C/Users/dchoughule/Desktop/Node.js/Server.js",
+		"/C/Users/dchoughule/Desktop/Node.js/main.js",
+		"/D/D/JS/Pen/Pen.js",
+		"/D/D/JS/Pen/Cap.js",
+		"/D/D/JS/Pen/ReFill.js",
+		"/D/D/JS/Object.js",
+		"/C/Users/dchoughule/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/C/Users/dchoughule/AppData/Roaming/Sublime Text 3/Packages/User/JS.sublime-build",
+		"/C/Users/dchoughule/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/dchoughule/AppData/Roaming/Sublime Text 3/Packages/User/JSC.sublime-build"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");",
+			"();",
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\EventManager\\EventManager\\EventManager.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
